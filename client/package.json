@@ -1,0 +1,13 @@
+{
+  "name": "rccar-client",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "raspicam": "^0.2.14",
+    "reconnect-core": "^1.3.0",
+    "reconnect-net": "^1.1.1"
+  }
+}

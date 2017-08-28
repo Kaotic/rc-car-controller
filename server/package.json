@@ -1,0 +1,14 @@
+{
+  "name": "rccar-server",
+  "main": "panel.html",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "nw"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "nat-upnp": "^1.1.0",
+    "nw": "^0.24.3",
+    "nwjs": "^1.4.3"
+  }
+}
