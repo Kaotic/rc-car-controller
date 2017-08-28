@@ -1,2 +1,4 @@
 Launch the client on the RC CAR. (Client connect to the server because it's not possible to open the port on 4G Network)
 Launch the server on your computer. (Open the port 56111, 56112)
+
+Client and server is not optimised !
